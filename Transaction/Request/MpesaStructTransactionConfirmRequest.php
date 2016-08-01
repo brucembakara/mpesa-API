@@ -1,7 +1,7 @@
 <?php
 /**
  * File for class MpesaStructTransactionConfirmRequest
- * @package Mpesa
+ * @package M-pesa
  * @subpackage Structs
  * @author WsdlToPhp Team <contact@wsdltophp.com>
  * @version 20150429-01

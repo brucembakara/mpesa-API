@@ -1,7 +1,7 @@
 <?php
 /**
  * Test with Mpesa for 'https://www.safaricom.co.ke/mpesa_online/lnmo_checkout_server.php?wsdl'
- * @package Mpesa
+ * @package M-pesa
  * @author WsdlToPhp Team <contact@wsdltophp.com>
  * @version 20150429-01
  * @date 2015-05-30
